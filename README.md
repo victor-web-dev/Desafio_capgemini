@@ -47,12 +47,13 @@ A questão 3 está incompleta, está retornando somente os caracteres iguais den
 
 ### Técnologias utilizadas:
 <img src="https://img.icons8.com/officel/40/000000/java-eclipse.png" /><img src="https://img.icons8.com/color/48/000000/javascript--v1.png" />
-<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png" /><img src="https://img.icons8.com/fluency/48/000000/visual-studio-code-2019.png"/>
+<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png" /><img src="https://img.icons8.com/fluency/48/000000/visual-studio-code-2019.png"/><img src="https://img.icons8.com/color/50/000000/git.png"/><img src="https://img.icons8.com/nolan/64/github.png"/>
 
 - Visual Studio Code
 - Eclipse IDE
 - Java
 - Javascript
+- Git && Github
 
 ## Como rodar a aplicação:
 
