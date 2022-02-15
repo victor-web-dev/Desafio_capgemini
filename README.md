@@ -28,7 +28,7 @@ A função referente a **questão 3** está localizada na linha 43 e sendo chama
 
 _Todos os resultados estão sendo exibidos no console do IDE;_
 <p>Todas as chamadas das funções estão comentadas;</p>
-<h4>É necessário descomentar a função para executa-la;</h4>
+<h4>É necessário descomentar a chamada da função para executa-la;</h4>
 
 <hr>
 
