@@ -9,12 +9,12 @@ Tendo isso em mente, devido minha afinidade maior com Javascript, iniciei a cria
 
 _Mantive o arquivo **desafio.js** disponível para possível análise dos avaliadores. Bastando apenas abrir o arquivo, de preferencia no Visual Studio Code com a Extensão **Code Runner** para execução do mesmo, se for da vontade dos referidos._
 
-- Sobre a aplicação Java
+## Sobre a aplicação Java
 
 Existem 2 classes:
-  Classe questions - onde estão escritas as funções referentes às questões do desafio;
-  Classe main - onde a classe question é declarada e suas funções utilizadas;
-  Ambas estão no mesmo arquivo de nome _main.java_;
+  <p>Classe questions - onde estão escritas as funções referentes às questões do desafio;</p>
+  <p>Classe main - onde a classe question é declarada e suas funções utilizadas;</p>
+  <p>Ambas estão no mesmo arquivo de nome main.java;</p>
 
 A função referente a **questão 1** está localizada na *linha 11* e sendo chamada na *linha 72*;
 
@@ -22,21 +22,26 @@ A função referente a **questao 2** está localizada na *linha 25* e sendo cham
 
 A função referente a **questão 3** está localizada na linha 43 e sendo chamada na linha 78;
 
-- Funcionamento das Funções:
+<hr>
+
+### Funcionamento das Funções:
 
 _Todos os resultados estão sendo exibidos no console do IDE;_
-Todas as chamadas das funções estão comentadas;
-**É necessário descomentar a função para executa-la**;
+<p>Todas as chamadas das funções estão comentadas;</p>
+<h4>É necessário descomentar a função para executa-la;</h4>
 
-- Observação:
+<hr>
 
-A questão 2, *retorna 0* para quando o parâmetro informado for aprovado na avaliação do Regex;
-  *Retorna -1* quando o parametro for maior que 6 mas nao corresponder ao padrao correto;
-  *Retorna a contagem de caracteres* faltantes quando o parametro informado não corresponde a avaliação do Regex e nem ao tamanho minimo de 6 caracteres;
+### Observação:
 
+<article>
+  <p>A questão 2, *retorna 0* para quando o parâmetro informado for aprovado na avaliação do Regex;</p>
+  <p>**Retorna -1** quando o parametro for maior que 6 mas nao corresponder ao padrao correto;</p>
+  <p>**Retorna a contagem de caracteres** faltantes quando o parametro informado não corresponde a avaliação do Regex e nem ao tamanho minimo de 6 caracteres;</p>
+</article>
 A questão 3 está incompleta, está retornando somente os caracteres iguais dentro de uma String;
 
-
+<hr>
 
 ### Técnologias utilizadas:
 
@@ -47,9 +52,9 @@ A questão 3 está incompleta, está retornando somente os caracteres iguais den
 
 ## Como rodar a aplicação:
 
-Clone o repositório;
-Abra a IDE Eclipse;
-Vá até a opção File na Toolbar;
-Selecione Open Projects from File System;
-Importe a pasta __Desafio_Capgemini__;
+1. Clone o repositório; \n
+2. Abra a IDE Eclipse; 
+3. Vá até a opção File na Toolbar; 
+4. Selecione Open Projects from File System; 
+5. Importe a pasta __Desafio_Capgemini__; 
 
