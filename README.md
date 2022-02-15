@@ -1,6 +1,8 @@
-# Desafio de programação Capgemini:
+# Desafio de programação Capgemini: <img src="https://img.icons8.com/color/50/000000/source-code.png"/>
 
 Repositório dedicado ao desafio de programação da Capgemini referente à Academia Técnica _[Capgemini](https://capgemini.proway.com.br/)_;
+
+
 
 ## Sobre o desafio:
 
@@ -9,7 +11,7 @@ Tendo isso em mente, devido minha afinidade maior com Javascript, iniciei a cria
 
 _Mantive o arquivo **desafio.js** disponível para possível análise dos avaliadores. Bastando apenas abrir o arquivo, de preferencia no Visual Studio Code com a Extensão **Code Runner** para execução do mesmo, se for da vontade dos referidos._
 
-## Sobre a aplicação Java
+## Sobre a aplicação Java <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png" />
 
 Existem 2 classes:
   <p>Classe questions - onde estão escritas as funções referentes às questões do desafio;</p>
@@ -24,7 +26,7 @@ A função referente a **questão 3** está localizada na linha 43 e sendo chama
 
 <hr>
 
-### Funcionamento das Funções:
+### Funcionamento das Funções: <img src="https://img.icons8.com/officel/40/000000/java-eclipse.png" /><img src="https://img.icons8.com/fluency/48/000000/visual-studio-code-2019.png"/>
 
 _Todos os resultados estão sendo exibidos no console do IDE;_
 <p>Todas as chamadas das funções estão comentadas;</p>
@@ -32,7 +34,7 @@ _Todos os resultados estão sendo exibidos no console do IDE;_
 
 <hr>
 
-### Observação:
+### Observação: <img src="https://img.icons8.com/officel/40/000000/java-eclipse.png" />
 
 <article>
   <p>A questão 2, *retorna 0* para quando o parâmetro informado for aprovado na avaliação do Regex;</p>
@@ -44,6 +46,8 @@ A questão 3 está incompleta, está retornando somente os caracteres iguais den
 <hr>
 
 ### Técnologias utilizadas:
+<img src="https://img.icons8.com/officel/40/000000/java-eclipse.png" /><img src="https://img.icons8.com/color/48/000000/javascript--v1.png" />
+<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png" /><img src="https://img.icons8.com/fluency/48/000000/visual-studio-code-2019.png"/>
 
 - Visual Studio Code
 - Eclipse IDE
