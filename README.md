@@ -52,7 +52,7 @@ A questão 3 está incompleta, está retornando somente os caracteres iguais den
 
 ## Como rodar a aplicação:
 
-1. Clone o repositório; \n
+1. Clone o repositório;
 2. Abra a IDE Eclipse; 
 3. Vá até a opção File na Toolbar; 
 4. Selecione Open Projects from File System; 
