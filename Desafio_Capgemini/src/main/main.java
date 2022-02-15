@@ -64,11 +64,17 @@ public class main {
 	public static void main(String[] args) {
 		
 		questions q = new questions();
-		String pwd = "Ya3afasda";
+		String pwd1 = "Ya3afasda";
+		String pwd2 = "Ya3&ab";
+		String pwd3 = "Ya3";
 		String text = "ifailuhkqq";
 		
 //		q.question1(6);
-//		q.question2(pwd);
+
+//		q.question2(pwd1);
+//		q.question2(pwd2);
+//		q.question2(pwd3);
+
 //		q.question3(text);
 	}
 
